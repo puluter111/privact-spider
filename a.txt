@@ -1,0 +1,11 @@
+Varible:
+data_input
+data_all
+pattern_all
+data_export
+
+pattern_search($pattern,$data)
+data_search($data_input)
+data_save($data)
+
+

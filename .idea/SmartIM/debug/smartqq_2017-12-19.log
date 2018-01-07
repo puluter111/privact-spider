@@ -1,0 +1,118 @@
+2017-12-19 21:48:41.926 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2017-12-19 21:48:42.666 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 D:\学校\高中\CTB\privacySpider\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2017-12-19 21:48:42.666 [Thread-6] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2017-12-19 21:49:02.788 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				正在登录，请稍后
+2017-12-19 21:49:02.788 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取ptwebqq
+2017-12-19 21:49:07.392 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取vfwebqq
+2017-12-19 21:49:11.726 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取uin和psessionid
+2017-12-19 21:49:15.520 [Thread-6] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始获取好友状态
+2017-12-19 21:49:17.041 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取登录用户信息
+2017-12-19 21:49:19.535 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取好友列表
+2017-12-19 21:49:23.159 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群列表
+2017-12-19 21:49:27.244 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取讨论组列表
+2017-12-19 21:49:29.025 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取最近会话列表
+2017-12-19 21:49:31.197 [Thread-8] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群资料
+2017-12-19 21:49:31.788 [Thread-9] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取登录用户信息
+2017-12-19 21:49:33.108 [Thread-9] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取好友列表
+2017-12-19 21:49:37.753 [Thread-10] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:39.364 [Thread-9] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群列表
+2017-12-19 21:49:39.544 [Thread-10] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:43.578 [Thread-9] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取讨论组列表
+2017-12-19 21:49:45.120 [Thread-9] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取最近会话列表
+2017-12-19 21:49:47.617 [Thread-11] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:48.373 [Thread-11] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:49.124 [Thread-12] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:49.304 [Thread-13] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:49.324 [Thread-8] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群资料
+2017-12-19 21:49:49.384 [Thread-12] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:49.444 [Thread-14] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:49.622 [Thread-15] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:49.824 [Thread-16] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:50.005 [Thread-17] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:50.519 [Thread-18] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:50.665 [Thread-19] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:50.745 [Thread-14] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:50.765 [Thread-13] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:50.855 [Thread-20] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:51.036 [Thread-21] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:51.196 [Thread-22] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:51.286 [Thread-15] ERROR com.scienjus.smartqq.client.SmartQQApi -
+				发送失败，Api返回码[1202]
+2017-12-19 21:49:51.366 [Thread-23] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:51.586 [Thread-17] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:51.586 [Thread-16] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.087 [Thread-18] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.227 [Thread-19] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.237 [Thread-20] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.407 [Thread-21] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.707 [Thread-23] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.757 [Thread-22] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:52.858 [Thread-24] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:54.044 [Thread-24] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:49:54.129 [Thread-25] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:49:55.120 [Thread-25] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:50:07.361 [Thread-8] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群资料
+2017-12-19 21:50:19.893 [Thread-26] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:50:20.884 [Thread-26] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:50:25.728 [Thread-8] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群资料
+2017-12-19 21:51:04.976 [Thread-27] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2017-12-19 21:51:06.197 [Thread-27] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2017-12-19 21:51:10.991 [Thread-8] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Canceled

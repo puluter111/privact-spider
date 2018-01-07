@@ -1,0 +1,48 @@
+
+[ Âí·äÎÑ Spider ] is started...
+
+  * PHPSpider Version: 2.0.7
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php mafengwo.php stop" to quit. Start success.
+
+2017-10-01 18:58:15 [debug] Find scan page: http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html
+2017-10-01 18:58:15 [info] Find pages: 1 
+2017-10-01 18:58:15 [info] Waiting for collect pages: 1 
+2017-10-01 18:58:15 [info] Collected pages: 0 
+2017-10-01 18:58:16 [debug] Success download page http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html in 0.368 s
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/mdd/base/list/pagedata_citylist?page=0
+2017-10-01 18:58:16 [debug] Success process page http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html in 0.411 s
+2017-10-01 18:58:16 [info] Spider running in 0d 0h 0m 1s
+2017-10-01 18:58:16 [info] Find pages: 2 
+2017-10-01 18:58:16 [info] Waiting for collect pages: 1 
+2017-10-01 18:58:16 [info] Collected pages: 1 
+2017-10-01 18:58:16 [debug] Success download page http://www.mafengwo.cn/mdd/base/list/pagedata_citylist?page=0 in 0.162 s
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17778
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=20060
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17949
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=26471
+2017-10-01 18:58:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=14906
+2017-10-01 18:58:16 [debug] Success process page http://www.mafengwo.cn/mdd/base/list/pagedata_citylist?page=0 in 0.18 s
+2017-10-01 18:58:16 [info] Spider running in 0d 0h 0m 1s
+2017-10-01 18:58:16 [info] Find pages: 11 
+2017-10-01 18:58:16 [info] Waiting for collect pages: 9 
+2017-10-01 18:58:16 [info] Collected pages: 2 
+2017-10-01 18:58:16 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17778 in 0.201 s
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/3450936.html
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/5322348.html
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/1370416.html
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/1021024.html
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/644633.html
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/1076270.html
+2017-10-01 18:58:16 [debug] Find content page: http://www.mafengwo.cn/i/2935492.html
+2017-10-01 18:58:16 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17778 in 0.214 s
+2017-10-01 18:58:16 [info] Spider running in 0d 0h 0m 1s
+2017-10-01 18:58:16 [info] Find pages: 18 
+2017-10-01 18:58:16 [info] Waiting for collect pages: 15 
+2017-10-01 18:58:16 [info] Collected pages: 3 
